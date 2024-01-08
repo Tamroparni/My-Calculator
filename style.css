@@ -1,0 +1,14 @@
+* {
+    background-color: black;
+    margin: 10px;
+}
+button {
+    border-radius: 25px;
+    color: beige;
+    border-width: 1px;
+    border-color: yellow;
+}
+.op {
+    background-color: yellow;
+    color: black;
+}
